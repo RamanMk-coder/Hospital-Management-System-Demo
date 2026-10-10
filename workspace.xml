@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="376bbd2a-bc6a-4ffb-adfd-c79c0ec91b8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="11" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.2924927451038875E-142" />
+      <entry key="S5" value="3.341906994730542E-57" />
+      <entry key="S10" value="8.185260060549837E-29" />
+      <entry key="S30" value="7.398073826954743E-10" />
+      <entry key="S60" value="4.7084925167058406E-5" />
+      <entry key="M2" value="0.01677814062335549" />
+      <entry key="M5" value="1.013430309114116" />
+      <entry key="M10" value="5.7319737184108055" />
+      <entry key="M15" value="12.315942037134244" />
+      <entry key="M30" value="34.44823117823988" />
+      <entry key="H1" value="69.83447919776128" />
+      <entry key="H2" value="107.99807417355909" />
+      <entry key="H4" value="137.99906194021625" />
+      <entry key="D1" value="171.94477007312713" />
+      <entry key="W1" value="178.81984502326497" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000002" />
+      <entry key="S10" value="1.000000022309929" />
+      <entry key="S30" value="1.0073881928100594" />
+      <entry key="S60" value="1.1932740301751832" />
+      <entry key="M2" value="2.271546325819708" />
+      <entry key="M5" value="9.759851825500178" />
+      <entry key="M10" value="27.733245462947576" />
+      <entry key="M15" value="46.318685356696705" />
+      <entry key="M30" value="93.72633354742648" />
+      <entry key="H1" value="153.85050613739807" />
+      <entry key="H2" value="210.77469885310452" />
+      <entry key="H4" value="252.7137105466528" />
+      <entry key="D1" value="298.3731650282128" />
+      <entry key="W1" value="307.4473745409165" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.8891174237578012E-4" />
+      <entry key="MS500" value="0.1799914148143357" />
+      <entry key="S2" value="0.6513477956153287" />
+      <entry key="S5" value="0.8424132305787044" />
+      <entry key="S10" value="0.9178307410762455" />
+      <entry key="S30" value="0.9789914847633272" />
+      <entry key="S60" value="1.1758755050449707" />
+      <entry key="M2" value="2.2692934081739073" />
+      <entry key="M5" value="10.728719971434906" />
+      <entry key="M10" value="33.39406078270072" />
+      <entry key="M15" value="58.552641557564264" />
+      <entry key="M30" value="128.0867699336954" />
+      <entry key="H1" value="223.6080592384714" />
+      <entry key="H2" value="318.7171995259103" />
+      <entry key="H4" value="390.6783402272615" />
+      <entry key="D1" value="470.31094903639973" />
+      <entry key="W1" value="486.2661855276486" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KS2SI6CqYlO2gKdsgrJmcqp8or" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HospitalManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="HospitalManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HospitalManagementsystem.HospitalManagementSystem" />
+      <module name="Hospital Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HospitalManagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HospitalManagementSystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="376bbd2a-bc6a-4ffb-adfd-c79c0ec91b8a" name="Changes" comment="" />
+      <created>1791536648362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791536648362</updated>
+      <workItem from="1791536652458" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
