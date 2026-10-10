@@ -1,4 +1,3 @@
-# Hospital-Management-System-Demo
 # Hospital Management System
 
 A Java console application for managing hospital patients, doctors and appointments, backed by MySQL through JDBC.
